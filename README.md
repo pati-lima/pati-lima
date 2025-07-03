@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou a Patricia Lima (pati-lima)
+## 👋 Olá! Eu sou a Patricia Lima 
 
 🎯 Em transição para a área de **Qualidade de Software (QA)** com base sólida em análise funcional, automação de testes e desenvolvimento front-end.
 
